@@ -1,2 +1,3 @@
 She likes Mars.
 The current state is sleeping.
+Now she is awake.
